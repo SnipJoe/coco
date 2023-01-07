@@ -34,7 +34,8 @@ jobs:
           #go install -v github.com/projectdiscovery/katana/cmd/katana@latest
 
       - name: KAK Scaning
-        timeout-minutes: 1
+        timeout-minutes: 340
+        continue-on-error: true
         run: |
           wget https://github.com/chaitin/xray/releases/download/1.9.3/xray_linux_amd64.zip
           unzip xray_linux_amd64.zip
