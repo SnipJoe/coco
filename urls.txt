@@ -1,5 +1,4 @@
 https://metaverse.mtn.com
-https://mtn.com
 https://momo.mtn.com
 https://harbor.prod.westeurope.api.mtn.com
 https://brand.mtn.com
@@ -49,7 +48,6 @@ https://stage.developers.mtn.com
 https://lyncdiscover.mtn.com
 https://mtnid.za.mtn.com
 https://api.prod02.uga.api.mtn.com
-https://www.mtn.com
 https://fintechdocs.mtn.com
 https://api.prod01.rwa.api.mtn.com
 https://harbor.preprod.westeurope.api.mtn.com
